@@ -4,6 +4,10 @@ const app = express();
 
 const PORT = process.env.PORT || 3000;
 
+app.get("/app", (req,res)=>{
+  res.send("Food Court")
+})
+
 app.get("/paratha", (req, res) => {
   res.json([
     {
