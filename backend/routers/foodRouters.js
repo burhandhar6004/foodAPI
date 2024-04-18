@@ -5,12 +5,12 @@ const router = express.Router();
 
 
 
-router("/paratha", getParatha)
-router("/burger", getBurger)
-router("/pizzza", getPizza)
-router("/soup", getSoup)
-router("/desert", getDesert)
-router("/bevr", getBeverages)
+router.get("/paratha", getParatha)
+router.get("/burger", getBurger)
+router.get("/pizzza", getPizza)
+router.get("/soup", getSoup)
+router.get("/desert", getDesert)
+router.get("/bevr", getBeverages)
 
 
 module.exports = router;
