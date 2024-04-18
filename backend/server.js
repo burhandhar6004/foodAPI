@@ -8,7 +8,7 @@ app.get("/app", (req,res)=>{
   res.send("Food Court")
 })
 
-app.get("/app", require("./routers/foodRouters") );
+app.use("/app", require("./routers/foodRouters") );
 
 // app.get("/burger",);
 
