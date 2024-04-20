@@ -2,7 +2,7 @@ const getParatha = (req, res) => {
   res.json([
     {
       _id: "1",
-      name: "Plain paratha + Yogurt",
+      name: "Plain paratha +  Yogurt",
       price: "40",
       description: "Extra Sauce",
       qty: "1",
@@ -53,6 +53,25 @@ const getParatha = (req, res) => {
       qty: "1",
       category: "paratha",
       img: "https://b.zmtcdn.com/data/dish_photos/f24/0d6673fdece45efd2a47b556f17d2f24.jpg?fit=around|130:130&crop=130:130;*,*",
+    },
+    {
+      _id: "7",
+      name: "Garlic Paratha",
+      price: "125",
+      description: "Extra Sauce, Yogurt, Cheese",
+      qty: "1",
+      category: "paratha",
+      img: "https://b.zmtcdn.com/data/dish_photos/6b8/19789e0fec1c374884865abd461ee6b8.png?fit=around|130:130&crop=130:130;*,*",
+    },
+
+    {
+      _id: "8",
+      name: "Onion Paratha",
+      price: "120",
+      description: "Extra Sauce, Yogurt, Cheese",
+      qty: "1",
+      category: "paratha",
+      img: "https://b.zmtcdn.com/data/dish_photos/23f/5ffa97ac943424bd301189912f04723f.jpg?fit=around|130:130&crop=130:130;*,*",
     },
   ]);
 };
