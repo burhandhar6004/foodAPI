@@ -16,7 +16,7 @@ const getParatha = (req, res) => {
       description: "Extra Sauce, Yogurt, Cheese",
       qty: "1",
       category: "paratha",
-      img: "https://b.zmtcdn.com/data/dish_photos/23f/5ffa97ac943424bd301189912f04723f.jpg?fit=around|130:130&crop=250:250;*,*",
+      img: "https://b.zmtcdn.com/data/dish_photos/6b8/19789e0fec1c374884865abd461ee6b8.png?fit=around|130:130&crop=250:250;*,*",
     },
     {
       _id: "3",
@@ -71,7 +71,7 @@ const getParatha = (req, res) => {
       description: "Extra Sauce, Yogurt, Cheese",
       qty: "1",
       category: "paratha",
-      img: "https://b.zmtcdn.com/data/dish_photos/23f/5ffa97ac943424bd301189912f04723f.jpg?fit=around|130:130&crop=250:250;*,*",
+      img: "https://b.zmtcdn.com/data/dish_photos/a6b/126aa7e892cbad15adbf696d060bba6b.png?fit=around%7C130:130&crop=250:250;*,*",
     },
   ]);
 };
