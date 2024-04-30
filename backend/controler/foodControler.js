@@ -85,7 +85,7 @@ const getBurger = (req, res) => {
       description: "Extra Sauce",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
       _id: "2",
@@ -94,7 +94,7 @@ const getBurger = (req, res) => {
       description: "cheez",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/chains/1/310301/ce87c272e2a248c0a19ea8bc42948dfa.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/chains/1/310301/ce87c272e2a248c0a19ea8bc42948dfa.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
       _id: "3",
@@ -103,7 +103,7 @@ const getBurger = (req, res) => {
       description: "Extra Sauce",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
       _id: "4",
@@ -112,7 +112,7 @@ const getBurger = (req, res) => {
       description: " Sauce",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/4/18787684/927f5dbbc84ba40d6957e60fd89397da.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/4/18787684/927f5dbbc84ba40d6957e60fd89397da.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
       _id: "5",
@@ -121,7 +121,7 @@ const getBurger = (req, res) => {
       description: "cream",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/9/18614929/80b00bc9daa926cbbd9eff789af62525.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/9/18614929/80b00bc9daa926cbbd9eff789af62525.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
       _id: "6",
@@ -130,7 +130,7 @@ const getBurger = (req, res) => {
       description: "Extra Sauce",
       qty: "1",
       category: "Burger",
-      img: "https://b.zmtcdn.com/data/pictures/chains/6/20851316/e04785edd9b65ca6f12d56d9e58e63e4.jpg?fit=around|300:273&crop=300:273;*,*",
+      img: "https://b.zmtcdn.com/data/pictures/chains/6/20851316/e04785edd9b65ca6f12d56d9e58e63e4.jpg?fit=around|300:273&crop=200:130;*,*",
     },
   ]);
 };
