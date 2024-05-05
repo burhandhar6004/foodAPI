@@ -79,7 +79,7 @@ const getParatha = (req, res) => {
 const getBurger = (req, res) => {
   res.json([
     {
-      _id: "1",
+      _id: "9",
       name: "Wendy burgers",
       price: "200",
       description: "Extra Sauce",
@@ -88,7 +88,7 @@ const getBurger = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
-      _id: "2",
+      _id: "10",
       name: "Singh Burger",
       price: "300",
       description: "cheez",
@@ -97,7 +97,7 @@ const getBurger = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/1/310301/ce87c272e2a248c0a19ea8bc42948dfa.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
-      _id: "3",
+      _id: "11",
       name: "Wendy burgers",
       price: "200",
       description: "Extra Sauce",
@@ -106,7 +106,7 @@ const getBurger = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/312423/0b140d9303f0ffd4c39d94c43576ba29.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
-      _id: "4",
+      _id: "12",
       name: "Smolehouse Burger",
       price: "350",
       description: " Sauce",
@@ -115,7 +115,7 @@ const getBurger = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/4/18787684/927f5dbbc84ba40d6957e60fd89397da.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
-      _id: "5",
+      _id: "13",
       name: "BurgerWa",
       price: "250",
       description: "cream",
@@ -124,7 +124,7 @@ const getBurger = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/9/18614929/80b00bc9daa926cbbd9eff789af62525.jpg?fit=around|300:273&crop=200:130;*,*",
     },
     {
-      _id: "6",
+      _id: "14",
       name: "Hulk Burger",
       price: "400",
       description: "Extra Sauce",
@@ -138,7 +138,7 @@ const getBurger = (req, res) => {
 const getPizza = (req, res) => {
   res.json([
     {
-      _id: "1",
+      _id: "15",
       name: "Margherita pizza",
       price: "350",
       description: "cheez",
@@ -147,7 +147,7 @@ const getPizza = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/143/37f6ce4eefbdfb4f5598ae262849b57a.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "2",
+      _id: "16",
       name: "Greek Piza",
       price: "300",
       description: " Extra cheez",
@@ -156,7 +156,7 @@ const getPizza = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/143/c751805b5927046d340926f870a95f5e.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "3",
+      _id: "17",
       name: "Veg pizza",
       price: "500",
       description: "cheez",
@@ -165,7 +165,7 @@ const getPizza = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/143/28c01b6cd6579b395c8b92b61f3fe794.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "4",
+      _id: "18",
       name: "Paneer pizza",
       price: "650",
       description: "cheez",
@@ -174,7 +174,7 @@ const getPizza = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/143/5cf123bb1d92163e8c393b91f6d7182b.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "5",
+      _id: "19",
       name: "California pizza",
       price: "700",
       description: "cheez",
@@ -183,7 +183,7 @@ const getPizza = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/3/143/e38a58c964554dd10abf7dbe20895bfa.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "6",
+      _id: "20",
       name: "Indorii pizza",
       price: "150",
       description: "cheez",
@@ -197,7 +197,7 @@ const getPizza = (req, res) => {
 const getDesert = (req, res) => {
   res.json([
     {
-      _id: "1",
+      _id: "21",
       name: "Dark Chocholate",
       price: "350",
       description: "cream",
@@ -206,7 +206,7 @@ const getDesert = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/5/312275/9b390531c6efd3a710621ade7bb4366c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "2",
+      _id: "22",
       name: "Blue Berry",
       price: "850",
       description: "cream",
@@ -215,7 +215,7 @@ const getDesert = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/5/312275/dd15a33862f9bf705bf22ffab4122973.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "3",
+      _id: "23",
       name: "Cheez Cake",
       price: "660",
       description: "cream",
@@ -224,7 +224,7 @@ const getDesert = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/5/312275/d3a78c2996c88805c593bef6499e5923.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "4",
+      _id: "24",
       name: "Pudding ",
       price: "220",
       description: "cream",
@@ -233,7 +233,7 @@ const getDesert = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/5/312275/d3a78c2996c88805c593bef6499e5923.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "5",
+      _id: "25",
       name: "Choclate Cake",
       price: "335",
       description: "cream",
@@ -242,7 +242,7 @@ const getDesert = (req, res) => {
       img: "https://b.zmtcdn.com/data/pictures/chains/5/312275/a61e30c586be8b8c53df7c9026342fe4.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
     },
     {
-      _id: "6",
+      _id: "26",
       name: "Carrot Cake",
       price: "440",
       description: "cream",
@@ -257,7 +257,7 @@ const getDesert = (req, res) => {
 const getSoup = (req,res)=>{
     res.json([
         {
-            _id: "1",
+            _id: "27",
             name: "Tomato Soup",
             price: "350",
             description: "",
@@ -267,7 +267,7 @@ const getSoup = (req,res)=>{
           },
 
           {
-            _id: "2",
+            _id: "28",
             name: "Veg Soup",
             price: "150",
             description: "",
@@ -277,7 +277,7 @@ const getSoup = (req,res)=>{
           },
 
           {
-            _id: "3",
+            _id: "29",
             name: "Brocoli Soup",
             price: "110",
             description: "",
@@ -287,7 +287,7 @@ const getSoup = (req,res)=>{
           },
 
           {
-            _id: "4",
+            _id: "30",
             name: "French Onion Soup",
             price: "210",
             description: "",
@@ -297,7 +297,7 @@ const getSoup = (req,res)=>{
           },
 
           {
-            _id: "5",
+            _id: "31",
             name: "Lentil Soup",
             price: "150",
             description: "",
@@ -307,7 +307,7 @@ const getSoup = (req,res)=>{
           },
 
           {
-            _id: "6",
+            _id: "32",
             name: "Cheese Soup",
             price: "180",
             description: "",
@@ -321,7 +321,7 @@ const getSoup = (req,res)=>{
 const getBeverages = (req,res)=>{
     res.json([
         {
-            _id: "1",
+            _id: "33",
             name: "Pinaple",
             price: "65",
             description: "",
@@ -331,7 +331,7 @@ const getBeverages = (req,res)=>{
           },
 
           {
-            _id: "2",
+            _id: "34",
             name: "Cold Cofee",
             price: "210",
             description: "",
@@ -341,7 +341,7 @@ const getBeverages = (req,res)=>{
           },
 
           {
-            _id: "3",
+            _id: "35",
             name: "Coconut Crush",
             price: "125",
             description: "",
@@ -351,7 +351,7 @@ const getBeverages = (req,res)=>{
           },
 
           {
-            _id: "4",
+            _id: "36",
             name: "Orange Juice",
             price: "140",
             description: "",
@@ -361,7 +361,7 @@ const getBeverages = (req,res)=>{
           },
 
           {
-            _id: "5",
+            _id: "37",
             name: "Tea",
             price: "60",
             description: "",
@@ -371,7 +371,7 @@ const getBeverages = (req,res)=>{
           },
 
           {
-            _id: "6",
+            _id: "38",
             name: "Lemon Tea",
             price: "80",
             description: "",
