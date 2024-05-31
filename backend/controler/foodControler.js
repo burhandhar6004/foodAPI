@@ -387,7 +387,7 @@ const getBeverages = (req,res)=>{
             description: "",
             qty: "1",
             category: "bev",
-            img: "https://b.zmtcdn.com/data/dish_photos/036/2c30bd09476bfb13d079198c5f4a5036.jpg?output-format=webp",
+            img: "https://b.zmtcdn.com/data/reviews_photos/28e/5b12cb61680ee3de1170be22be6e928e_1527664865.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
           },
 
           {
@@ -397,7 +397,7 @@ const getBeverages = (req,res)=>{
             description: "",
             qty: "1",
             category: "bev",
-            img: "https://b.zmtcdn.com/data/pictures/chains/1/1402201/fd0dacb70f8330460fb3c65086c89f6f.jpg?fit=around|130:130&crop=250:250;*,*",
+            img: "https://b.zmtcdn.com/data/reviews_photos/b4d/dd1fda711df550773526967dae207b4d_1516309472.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
           },
     ])
 }
