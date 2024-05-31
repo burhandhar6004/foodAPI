@@ -379,6 +379,26 @@ const getBeverages = (req,res)=>{
             category: "bev",
             img: "https://b.zmtcdn.com/data/pictures/chains/9/300749/4626f8a8886e9891568c3835aad03bde.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
           },
+
+          {
+            _id: "39",
+            name: "Organic Tea",
+            price: "180",
+            description: "",
+            qty: "1",
+            category: "bev",
+            img: "https://b.zmtcdn.com/data/dish_photos/036/2c30bd09476bfb13d079198c5f4a5036.jpg?output-format=webp",
+          },
+
+          {
+            _id: "40",
+            name: "Chocho Tea",
+            price: "155",
+            description: "",
+            qty: "1",
+            category: "bev",
+            img: "https://b.zmtcdn.com/data/dish_photos/08e/8681dc63ec8ffb6e4f568bedecb8f08e.jpg?output-format=webp",
+          },
     ])
 }
 
