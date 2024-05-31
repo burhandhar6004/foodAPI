@@ -397,7 +397,7 @@ const getBeverages = (req,res)=>{
             description: "",
             qty: "1",
             category: "bev",
-            img: "https://b.zmtcdn.com/data/pictures/chains/1/1402201/fd0dacb70f8330460fb3c65086c89f6f.jpg?fit=around|130:250&crop=130:250;*,*",
+            img: "https://b.zmtcdn.com/data/pictures/chains/1/1402201/fd0dacb70f8330460fb3c65086c89f6f.jpg?fit=around|130:130&crop=250:250;*,*",
           },
     ])
 }
